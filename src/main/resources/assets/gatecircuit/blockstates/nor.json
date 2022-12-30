@@ -1,0 +1,64 @@
+{
+  "variants": {
+    "facing=east,powered=true,left=false,right=false": {
+      "y": 270,
+      "model": "gatecircuit:block/nor"
+    },
+    "facing=east,powered=false,left=true,right=false": {
+      "y": 270,
+      "model": "gatecircuit:block/nor_off_left"
+    },
+    "facing=east,powered=false,left=false,right=true": {
+      "y": 270,
+      "model": "gatecircuit:block/nor_off_right"
+    },
+    "facing=east,powered=false,left=true,right=true": {
+      "y": 270,
+      "model": "gatecircuit:block/nor_off"
+    },
+    "facing=north,powered=true,left=false,right=false": {
+      "y": 180,
+      "model": "gatecircuit:block/nor"
+    },
+    "facing=north,powered=false,left=true,right=false": {
+      "y": 180,
+      "model": "gatecircuit:block/nor_off_left"
+    },
+    "facing=north,powered=false,left=false,right=true": {
+      "y": 180,
+      "model": "gatecircuit:block/nor_off_right"
+    },
+    "facing=north,powered=false,left=true,right=true": {
+      "y": 180,
+      "model": "gatecircuit:block/nor_off"
+    },
+    "facing=south,powered=true,left=false,right=false": {
+      "model": "gatecircuit:block/nor"
+    },
+    "facing=south,powered=false,left=true,right=false": {
+      "model": "gatecircuit:block/nor_off_left"
+    },
+    "facing=south,powered=false,left=false,right=true": {
+      "model": "gatecircuit:block/nor_off_right"
+    },
+    "facing=south,powered=false,left=true,right=true": {
+      "model": "gatecircuit:block/nor_off"
+    },
+    "facing=west,powered=true,left=false,right=false": {
+      "y": 90,
+      "model": "gatecircuit:block/nor"
+    },
+    "facing=west,powered=false,left=true,right=false": {
+      "y": 90,
+      "model": "gatecircuit:block/nor_off_left"
+    },
+    "facing=west,powered=false,left=false,right=true": {
+      "y": 90,
+      "model": "gatecircuit:block/nor_off_right"
+    },
+    "facing=west,powered=false,left=true,right=true": {
+      "y": 90,
+      "model": "gatecircuit:block/nor_off"
+    }
+  }
+}

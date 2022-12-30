@@ -1,0 +1,9 @@
+{
+  "block.gatecircuit.nand": "反及閘",
+  "block.gatecircuit.and": "及閘",
+  "block.gatecircuit.or": "或閘",
+  "block.gatecircuit.nor": "或非閘",
+  "block.gatecircuit.xor": "异或閘",
+  "block.gatecircuit.xnor": "同或閘",
+  "block.gatecircuit.not": "非閘"
+}

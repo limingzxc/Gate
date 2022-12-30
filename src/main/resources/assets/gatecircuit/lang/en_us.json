@@ -1,0 +1,9 @@
+{
+  "block.gatecircuit.nand": "NAND gate",
+  "block.gatecircuit.and": "AND gate",
+  "block.gatecircuit.or": "OR gate",
+  "block.gatecircuit.nor": "NOR gate",
+  "block.gatecircuit.xor": "XOR gate",
+  "block.gatecircuit.xnor": "XNOR gate",
+  "block.gatecircuit.not": "NOT gate"
+}

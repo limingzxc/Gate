@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:redstone_torch"
+    },
+    "$": {
+      "item": "minecraft:cobblestone"
+    }
+  },
+  "pattern": [
+    "   ",
+    "   ",
+    "#$#"
+  ],
+  "result": {
+    "item": "gatecircuit:not",
+    "count": 1
+  }
+}

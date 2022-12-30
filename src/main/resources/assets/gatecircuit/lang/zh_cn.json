@@ -1,0 +1,9 @@
+{
+  "block.gatecircuit.nand": "与非门",
+  "block.gatecircuit.and": "与门",
+  "block.gatecircuit.or": "或门",
+  "block.gatecircuit.nor": "或非门",
+  "block.gatecircuit.xor": "异或门",
+  "block.gatecircuit.xnor": "同或门",
+  "block.gatecircuit.not": "非门"
+}
